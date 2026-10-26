@@ -1,0 +1,42 @@
+{
+  "coverage": 17,
+  "missing": 9,
+  "searched": 1,
+  "images": [
+    {
+      "ok": true,
+      "alt": "公开子集实际重算：按SKU分组后的平均成本，持有与缺货成本分开显示；无误差线。"
+    },
+    {
+      "ok": true,
+      "alt": "公开实验后样本均值，处理组与对照组各500条；是描述性组间比较，不是新增随机实验。"
+    },
+    {
+      "ok": true,
+      "alt": "按统一非负周转口径计算的四组均值差值。未提供经过认证的DiD p值。"
+    },
+    {
+      "ok": true,
+      "alt": "同一个逻辑回归倾向得分模型：匹配前、作者协变量近邻匹配后，以及倾向得分近邻匹配后。"
+    },
+    {
+      "ok": true,
+      "alt": "协变量绝对标准化均值差，固定使用匹配前合并标准差；0.1虚线为描述性诊断参考。"
+    },
+    {
+      "ok": true,
+      "alt": "按Figure 1重绘结构，采用Table B.1披露的层大小；仅表示结构，不表示已获得训练权重。"
+    },
+    {
+      "ok": true,
+      "alt": "补充分析：冻结b/h=9时的预测和库存轨迹，仅重新加权成本。此图不是原Figure B.2的训练敏感性复现。"
+    }
+  ],
+  "downloads": 35,
+  "desktopOverflow": false,
+  "mobileOverflow": false,
+  "errors": [],
+  "externalRequests": [],
+  "offline_csv_download_matches_source": true,
+  "execution_mode": "headless local file in Edge; no server and no external requests"
+}

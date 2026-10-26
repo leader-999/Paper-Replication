@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "html": "self-contained images and embedded CSV downloads",
+  "paper_items": 17,
+  "all_training_results_reproduced": false,
+  "theory_checks_passed": 1416,
+  "inventory_traces_validated": 18249
+}
