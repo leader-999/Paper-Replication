@@ -1,0 +1,11 @@
+{
+  "local_full_pipeline": "passed",
+  "colab_notebook_structure_and_python_syntax": "passed",
+  "colab_notebook_full_flow_with_mocked_upload_download": "passed; local filesystem under workspace",
+  "remote_google_colab_execution": "not performed",
+  "drive_authorization": "requires user action in Colab",
+  "inventory_trajectory_comparisons": 18249,
+  "section4_reference_tolerance": 0.011,
+  "script_sha256": "4d0bc9a31141f898ebe933a2d3db1a07b263c7e24a0a9bc83683c7b79c37ea97",
+  "notebook_sha256": "65346678f6fc9ceab440d2e6615e675d66ef51a577c61da7d08bd7c149ba5f9a"
+}

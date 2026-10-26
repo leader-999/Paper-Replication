@@ -1,0 +1,22 @@
+AUTHOR CELL 0
+AUTHOR CELL 1
+AUTHOR CELL 2
+AUTHOR CELL 4
+AUTHOR CELL 6
+AUTHOR CELL 8
+AUTHOR CELL 9
+AUTHOR CELL 11
+AUTHOR CELL 12
+AUTHOR CELL 14
+AUTHOR CELL 15
+AUTHOR CELL 16
+\begin{tabular}{lrrrrrrr}
+\toprule
+ & OPT & E2E_RNN & Bm1 & Bm2 & Normal & Gamma & gbm \\
+\midrule
+Total cost & 2572.96 & 3036.76 & 3842.31 & 3837.83 & 3961.69 & 4099.95 & 3424.87 \\
+Holding cost & 1363.22 & 1883.59 & 1709.36 & 1541.63 & 2317.10 & 1947.84 & 1424.93 \\
+Stockout cost & 1209.75 & 1153.17 & 2132.94 & 2296.20 & 1644.59 & 2152.11 & 1999.94 \\
+\bottomrule
+\end{tabular}
+
