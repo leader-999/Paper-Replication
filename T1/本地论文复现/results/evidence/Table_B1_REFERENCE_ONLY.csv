@@ -1,0 +1,11 @@
+﻿parameter,paper_default,paper_search_range
+Demand module hidden state,50,"30, 40, 50, 60"
+VLT MLP layer sizes,"50, 20",100/20; 50/20; 30/20
+Integration hidden layers,"100, 100",100; 100/100; 100/100/100; 100/100/100/100
+Learning rate,0.001,".0001, .001, .01"
+Learning rate decay,0.0001,"1e-5, 1e-4, 1e-3"
+Momentum,0.85,".8, .85, .9"
+Batch size,64,"64, 128, 256"
+Initialization,"Gaussian mean=0, SD=.01",Gaussian; Uniform
+Activation,ReLU,ReLU; tanh
+Dropout,0.2,".1, .2, .3, .4"

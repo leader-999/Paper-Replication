@@ -1,0 +1,54 @@
+[
+  {
+    "figure": "figure1_architecture",
+    "claim": "Published module connections can be reconstructed; weights cannot.",
+    "archetype": "schematic-led composite",
+    "data": "Figure 1, journal p.764",
+    "statistic": "none"
+  },
+  {
+    "figure": "fig2b_subset_costs",
+    "claim": "E2E has lowest cost among deployable policies in the disclosed author evaluation.",
+    "archetype": "quantitative grid",
+    "data": "recomputed/section4_original_costs.csv",
+    "n": "3000 rows aggregated to 2607 SKU groups",
+    "statistic": "arithmetic mean; no uncertainty intervals"
+  },
+  {
+    "figure": "table2_subset_comparison",
+    "claim": "The disclosed post-period sample has lower treatment means.",
+    "archetype": "quantitative grid",
+    "data": "table2_recomputed.csv",
+    "n": "500 per group",
+    "statistic": "means; no causal claim"
+  },
+  {
+    "figure": "table4_descriptive_did",
+    "claim": "Four group means yield a negative descriptive inventory-cost DiD.",
+    "archetype": "quantitative grid",
+    "data": "table4_recomputed.csv",
+    "statistic": "difference of group means; audited p unavailable"
+  },
+  {
+    "figure": "supplement_frozen_repricing",
+    "claim": "Fixed trajectory costs depend mechanically on cost weights.",
+    "archetype": "quantitative grid",
+    "data": "supplement_frozen_policy_repricing.csv",
+    "statistic": "deterministic repricing, no retraining"
+  },
+  {
+    "figure": "matching_scores",
+    "claim": "Both matching implementations improve the displayed score overlap.",
+    "archetype": "quantitative grid",
+    "data": "recomputed/matching_pairs.csv",
+    "n": "500 treated, 55333 candidate controls; matching with replacement",
+    "statistic": "density histogram; no causal identification claim"
+  },
+  {
+    "figure": "matching_balance",
+    "claim": "Released covariates have smaller absolute standardized differences after matching.",
+    "archetype": "quantitative grid",
+    "data": "recomputed/matching_balance.csv",
+    "statistic": "fixed pre-match pooled SD; repeated controls counted as matched rows"
+  }
+]
