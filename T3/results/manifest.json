@@ -1,0 +1,2982 @@
+[
+  {
+    "name": "baseline",
+    "path": "results\\runs\\baseline_09b31ebe1c0b",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 1500000,
+      "history_every": 1000
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "grid_0_0",
+    "path": "results\\runs\\grid_0_0_a6d374ea64fb",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.025,
+      "beta": 2e-07,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_0_1",
+    "path": "results\\runs\\grid_0_1_6c061f754917",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.025,
+      "beta": 3.5000000000000004e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_0_2",
+    "path": "results\\runs\\grid_0_2_1b60f40d3caf",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.025,
+      "beta": 6.8e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_0_3",
+    "path": "results\\runs\\grid_0_3_648d3887ac2e",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.025,
+      "beta": 1.01e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_0_4",
+    "path": "results\\runs\\grid_0_4_de81e4164547",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.025,
+      "beta": 1.34e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_0_5",
+    "path": "results\\runs\\grid_0_5_4fa2cd35cc4d",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.025,
+      "beta": 1.6700000000000003e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_0_6",
+    "path": "results\\runs\\grid_0_6_9bdfbe311b8e",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.025,
+      "beta": 2e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_1_0",
+    "path": "results\\runs\\grid_1_0_94316a351393",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.0625,
+      "beta": 2e-07,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_1_1",
+    "path": "results\\runs\\grid_1_1_c8c959c0a1a0",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.0625,
+      "beta": 3.5000000000000004e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_1_2",
+    "path": "results\\runs\\grid_1_2_fc3a21e4807e",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.0625,
+      "beta": 6.8e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_1_3",
+    "path": "results\\runs\\grid_1_3_2e51fe6ce839",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.0625,
+      "beta": 1.01e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_1_4",
+    "path": "results\\runs\\grid_1_4_5216f5b8ca37",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.0625,
+      "beta": 1.34e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_1_5",
+    "path": "results\\runs\\grid_1_5_e5f5befb848c",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.0625,
+      "beta": 1.6700000000000003e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_1_6",
+    "path": "results\\runs\\grid_1_6_28ab0b288ab0",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.0625,
+      "beta": 2e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_2_0",
+    "path": "results\\runs\\grid_2_0_6645efab9f68",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.1,
+      "beta": 2e-07,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_2_1",
+    "path": "results\\runs\\grid_2_1_63453ae28919",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.1,
+      "beta": 3.5000000000000004e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_2_2",
+    "path": "results\\runs\\grid_2_2_6116503d296e",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.1,
+      "beta": 6.8e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_2_3",
+    "path": "results\\runs\\grid_2_3_a45332a438aa",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.1,
+      "beta": 1.01e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_2_4",
+    "path": "results\\runs\\grid_2_4_44eaec4621c1",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.1,
+      "beta": 1.34e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_2_5",
+    "path": "results\\runs\\grid_2_5_635e81163e8e",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.1,
+      "beta": 1.6700000000000003e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_2_6",
+    "path": "results\\runs\\grid_2_6_ae10b0e3a0f5",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.1,
+      "beta": 2e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_3_0",
+    "path": "results\\runs\\grid_3_0_12c7910e9985",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.13749999999999998,
+      "beta": 2e-07,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_3_1",
+    "path": "results\\runs\\grid_3_1_41bb7fad2675",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.13749999999999998,
+      "beta": 3.5000000000000004e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_3_2",
+    "path": "results\\runs\\grid_3_2_bd600cb522e4",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.13749999999999998,
+      "beta": 6.8e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_3_3",
+    "path": "results\\runs\\grid_3_3_4c222f3c629e",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.13749999999999998,
+      "beta": 1.01e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_3_4",
+    "path": "results\\runs\\grid_3_4_7e7d08f05ba1",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.13749999999999998,
+      "beta": 1.34e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_3_5",
+    "path": "results\\runs\\grid_3_5_7f43f76cf58c",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.13749999999999998,
+      "beta": 1.6700000000000003e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_3_6",
+    "path": "results\\runs\\grid_3_6_c84e49d33071",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.13749999999999998,
+      "beta": 2e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_4_0",
+    "path": "results\\runs\\grid_4_0_1ad7370bc1e6",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.175,
+      "beta": 2e-07,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_4_1",
+    "path": "results\\runs\\grid_4_1_3c4ab579029b",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.175,
+      "beta": 3.5000000000000004e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_4_2",
+    "path": "results\\runs\\grid_4_2_496ce7a660b6",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.175,
+      "beta": 6.8e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_4_3",
+    "path": "results\\runs\\grid_4_3_4cc2fdf3069c",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.175,
+      "beta": 1.01e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_4_4",
+    "path": "results\\runs\\grid_4_4_c41c98eabaa6",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.175,
+      "beta": 1.34e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_4_5",
+    "path": "results\\runs\\grid_4_5_6593ea651675",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.175,
+      "beta": 1.6700000000000003e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_4_6",
+    "path": "results\\runs\\grid_4_6_54236a830791",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.175,
+      "beta": 2e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_5_0",
+    "path": "results\\runs\\grid_5_0_43e50d689477",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.2125,
+      "beta": 2e-07,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_5_1",
+    "path": "results\\runs\\grid_5_1_af524f38fb1c",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.2125,
+      "beta": 3.5000000000000004e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_5_2",
+    "path": "results\\runs\\grid_5_2_354a20afe5ca",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.2125,
+      "beta": 6.8e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_5_3",
+    "path": "results\\runs\\grid_5_3_fe708044a839",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.2125,
+      "beta": 1.01e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_5_4",
+    "path": "results\\runs\\grid_5_4_6f9a9ea71abf",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.2125,
+      "beta": 1.34e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_5_5",
+    "path": "results\\runs\\grid_5_5_938f9586a628",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.2125,
+      "beta": 1.6700000000000003e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_5_6",
+    "path": "results\\runs\\grid_5_6_5b94fab53896",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.2125,
+      "beta": 2e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_6_0",
+    "path": "results\\runs\\grid_6_0_db91313c874f",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.25,
+      "beta": 2e-07,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_6_1",
+    "path": "results\\runs\\grid_6_1_ab7bc247b33a",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.25,
+      "beta": 3.5000000000000004e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_6_2",
+    "path": "results\\runs\\grid_6_2_ee95f0ce6a04",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.25,
+      "beta": 6.8e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_6_3",
+    "path": "results\\runs\\grid_6_3_5737d8190935",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.25,
+      "beta": 1.01e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_6_4",
+    "path": "results\\runs\\grid_6_4_a1aaa60a73f0",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.25,
+      "beta": 1.34e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_6_5",
+    "path": "results\\runs\\grid_6_5_4b9307f29cb0",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.25,
+      "beta": 1.6700000000000003e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "grid_6_6",
+    "path": "results\\runs\\grid_6_6_276ff55cb55d",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.25,
+      "beta": 2e-05,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 64
+  },
+  {
+    "name": "delta_0",
+    "path": "results\\runs\\delta_0_c5a4f9e685e9",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.1",
+    "path": "results\\runs\\delta_0.1_46b637f1660f",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.1,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.2",
+    "path": "results\\runs\\delta_0.2_e2b94fb45c16",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.2,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.3",
+    "path": "results\\runs\\delta_0.3_c9d801383130",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.3,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.35",
+    "path": "results\\runs\\delta_0.35_d7649e24f96d",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.35,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.4",
+    "path": "results\\runs\\delta_0.4_bdcc407e1163",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.4,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.5",
+    "path": "results\\runs\\delta_0.5_5b6d108bb1c7",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.5,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.6",
+    "path": "results\\runs\\delta_0.6_46dec80ce65b",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.6,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.7",
+    "path": "results\\runs\\delta_0.7_a4f65a78e870",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.7,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.8",
+    "path": "results\\runs\\delta_0.8_69124a7dc6df",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.8,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.9",
+    "path": "results\\runs\\delta_0.9_02caa5bb360a",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.9,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "delta_0.99",
+    "path": "results\\runs\\delta_0.99_422ee19a176c",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.99,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "cost_0.875",
+    "path": "results\\runs\\cost_0.875_8cb6791ae885",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        0.875
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "cost_0.75",
+    "path": "results\\runs\\cost_0.75_2e735512e354",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        0.75
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "cost_0.625",
+    "path": "results\\runs\\cost_0.625_8912e2edc1fa",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        0.625
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "cost_0.5",
+    "path": "results\\runs\\cost_0.5_a20c97230067",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        0.5
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "cost_0.25",
+    "path": "results\\runs\\cost_0.25_ae9732795b6e",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        0.25
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "players_3",
+    "path": "results\\runs\\players_3_880c1f021834",
+    "config": {
+      "n": 3,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "players_4",
+    "path": "results\\runs\\players_4_ed1b1bb9c6af",
+    "config": {
+      "n": 4,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0,
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 256
+  },
+  {
+    "name": "shock_0.15",
+    "path": "results\\runs\\shock_0.15_f2aeb45ae7c8",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.15,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "shock_0.25",
+    "path": "results\\runs\\shock_0.25_126b1d8b9e72",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.25,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "entry_2_0.001",
+    "path": "results\\runs\\entry_2_0.001_8a380cb5e6c5",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.001,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "entry_2_0.0001",
+    "path": "results\\runs\\entry_2_0.0001_b962bd7addb3",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0001,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "entry_3_0.001",
+    "path": "results\\runs\\entry_3_0.001_4200dc6360cd",
+    "config": {
+      "n": 3,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.001,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "entry_3_0.0001",
+    "path": "results\\runs\\entry_3_0.0001_33a51e633b40",
+    "config": {
+      "n": 3,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0001,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "mu_0",
+    "path": "results\\runs\\mu_0_f3da0a3e7919",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "mu_0.05",
+    "path": "results\\runs\\mu_0.05_88b764351df8",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.05,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "mu_0.1",
+    "path": "results\\runs\\mu_0.1_119f832fc621",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.1,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "mu_0.2",
+    "path": "results\\runs\\mu_0.2_893b0e2adfa0",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.2,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "mu_0.5",
+    "path": "results\\runs\\mu_0.5_78797e248637",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.5,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "init_nash",
+    "path": "results\\runs\\init_nash_ca7dab2549fe",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "nash",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "init_grim",
+    "path": "results\\runs\\init_grim_9fdcfee2861d",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "grim",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "init_optimistic",
+    "path": "results\\runs\\init_optimistic_94ce311a1623",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "optimistic",
+      "exploration": false,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "xi_0",
+    "path": "results\\runs\\xi_0_e79a8576ff2a",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "xi_0.5",
+    "path": "results\\runs\\xi_0.5_4afd4ca06f68",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.5,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "xi_1.0",
+    "path": "results\\runs\\xi_1.0_0032b836e5bb",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 1.0,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "lower_cost",
+    "path": "results\\runs\\lower_cost_f772d6513b23",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": true,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "actions_50",
+    "path": "results\\runs\\actions_50_9758a1ac2578",
+    "config": {
+      "n": 2,
+      "m": 50,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "actions_100",
+    "path": "results\\runs\\actions_100_66cfc7b86961",
+    "config": {
+      "n": 2,
+      "m": 100,
+      "memory": 1,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  },
+  {
+    "name": "memory_zero",
+    "path": "results\\runs\\memory_zero_065d935ff510",
+    "config": {
+      "n": 2,
+      "m": 15,
+      "memory": 0,
+      "alpha": 0.15,
+      "beta": 4e-06,
+      "delta": 0.95,
+      "mu": 0.25,
+      "xi": 0.1,
+      "costs": [
+        1.0,
+        1.0
+      ],
+      "qualities": [
+        2.0,
+        2.0
+      ],
+      "a0": 0.0,
+      "shock": 0.0,
+      "init": "uniform",
+      "exploration": true,
+      "lower_at_cost": false,
+      "stable_periods": 100000,
+      "max_steps": 1000000000,
+      "entry_rho": 0.0,
+      "history_end": 0,
+      "history_every": 0
+    },
+    "repetitions": 1000
+  }
+]

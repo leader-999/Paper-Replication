@@ -1,0 +1,20 @@
+{
+  "baseline_gain": 0.8493023719772657,
+  "baseline_mcse": 0.0035186580582105592,
+  "baseline_eq": 0.476,
+  "fixed_price_frequency": 0.644,
+  "on_loss": 0.001657288442852855,
+  "off_loss": 0.017841906045789162,
+  "sessions": 44392,
+  "training_periods": 112815667904,
+  "experiments": 91,
+  "all_states_reach_frequency": 0.928,
+  "fewer_than_three_exceptions": 0.98,
+  "deviation_unprofitable": 0.9820717131474104,
+  "graph_session": 3,
+  "converged": 43392,
+  "requested": 43392,
+  "rematch_converged": 1000,
+  "grid_gain_equilibrium_correlation": -0.25932767937363044,
+  "grid_gain_punishment_correlation": 0.5184834310842903
+}

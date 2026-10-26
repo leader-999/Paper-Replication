@@ -1,0 +1,19 @@
+{
+  "backend": "Python/matplotlib",
+  "archetype": "quantitative grid",
+  "claim": "Assess independent reproduction of supracompetitive profits, punitive responses, robustness and time scale without substituting published values.",
+  "evidence": "Figures 1\u201311, Tables 1\u20134 and raw seed-level data",
+  "exports": [
+    "editable SVG",
+    "PNG preview",
+    "CSV",
+    "self-contained HTML"
+  ],
+  "statistics": "Independent seed as replication unit; mean and 95% Monte Carlo CI unless caption states quantiles/range",
+  "risks": [
+    "reduced parameter grid",
+    "unmatched RNG",
+    "declared reconstruction choices",
+    "appendix incomplete"
+  ]
+}
