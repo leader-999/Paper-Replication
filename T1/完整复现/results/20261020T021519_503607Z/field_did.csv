@@ -1,0 +1,6 @@
+﻿metric,author_point_estimate,author_ttest_p_unverified_pairing,consistent_clipped_turnover_point_estimate,audited_p_value,inference_note
+holding_cost,-503.37199999999996,8.23880714505796e-17,-503.372,,No audited p-value: longitudinal identity and valid sampling dependence unverified.
+stockout_cost,-1100.358,3.874877819304954e-20,-1100.3580000000002,,No audited p-value: longitudinal identity and valid sampling dependence unverified.
+total_cost,-1603.73,1.452524864442217e-41,-1603.7299999999996,,No audited p-value: longitudinal identity and valid sampling dependence unverified.
+turnover,-4.9926952563186,0.0046449146983646335,-6.537595351480883,,No audited p-value: longitudinal identity and valid sampling dependence unverified.
+stockout_ratio,-0.16686711440837254,3.450407517799294e-14,-0.16686711440837257,,No audited p-value: longitudinal identity and valid sampling dependence unverified.

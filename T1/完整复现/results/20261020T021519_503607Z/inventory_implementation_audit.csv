@@ -1,0 +1,8 @@
+﻿method,negative_replenishment_rounds,arrival_events,arrivals_dropping_negative_stock,fallback_rounds,skipped_overlap_points
+OPT,854,2942,1082,11,2068
+E2E_RNN,525,2942,1109,11,2068
+Bm1,663,2942,1148,11,2068
+Bm2,703,2942,1153,11,2068
+Normal,477,2942,1119,11,2068
+Gamma,613,2942,1146,11,2068
+gbm,582,2942,1132,11,2068

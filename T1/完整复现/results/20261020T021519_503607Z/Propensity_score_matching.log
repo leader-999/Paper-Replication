@@ -1,0 +1,23 @@
+AUTHOR CELL 0
+AUTHOR CELL 2
+AUTHOR CELL 3
+AUTHOR CELL 4
+AUTHOR CELL 5
+AUTHOR CELL 6
+AUTHOR CELL 7
+AUTHOR CELL 8
+AUTHOR CELL 9
+Propensity_score_matching.ipynb:cell-9:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+Propensity_score_matching.ipynb:cell-9:4: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+AUTHOR CELL 10
+AUTHOR CELL 11
+AUTHOR CELL 13
+AUTHOR CELL 14
