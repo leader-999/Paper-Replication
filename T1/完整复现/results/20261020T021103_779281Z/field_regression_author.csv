@@ -1,0 +1,6 @@
+﻿metric,e2e_coefficient,p_value,n,intercept,standard_errors
+holding_cost,-220.52901840885104,4.353060414252989e-07,1000,False,author nonrobust OLS
+stockout_cost,-735.2393427022816,3.728419505413124e-16,1000,False,author nonrobust OLS
+total_cost,-955.7683611111327,1.430190139633174e-29,1000,False,author nonrobust OLS
+turnover,0.3457944674020097,0.7697725330439251,1000,False,author nonrobust OLS
+stockout_ratio,-0.10190461962097425,1.6044485772974308e-12,1000,False,author nonrobust OLS

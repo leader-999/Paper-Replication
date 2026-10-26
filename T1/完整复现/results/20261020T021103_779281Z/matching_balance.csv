@@ -1,0 +1,7 @@
+﻿matching,covariate,treated_mean,control_mean,standardization,SMD
+before,ave_demand,2.217962237202,2.1488030048669144,fixed pooled pre-match SD,0.010790401381366926
+before,vlt_num,8.484,11.120073012488026,fixed pooled pre-match SD,-0.41861266947432035
+author_covariate_NN,ave_demand,2.217962237202,2.2184537634379997,fixed pooled pre-match SD,-7.668918807852073e-05
+author_covariate_NN,vlt_num,8.484,8.484,fixed pooled pre-match SD,0.0
+propensity_score_NN,ave_demand,2.217962237202,2.571550537604,fixed pooled pre-match SD,-0.05516775644077455
+propensity_score_NN,vlt_num,8.484,8.474,fixed pooled pre-match SD,0.0015880162176510006

@@ -1,0 +1,4 @@
+﻿matching,n_treated,control_rows_used,distinct_control_rows,reuse_count,max_score_distance
+before,500,55333,55333,0,
+author_covariate_NN,500,500,424,76,9.89852659646906e-06
+propensity_score_NN,500,500,424,76,9.89852659646906e-06

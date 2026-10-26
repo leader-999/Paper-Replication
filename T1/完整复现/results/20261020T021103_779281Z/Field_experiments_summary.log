@@ -1,0 +1,213 @@
+AUTHOR CELL 0
+AUTHOR CELL 2
+AUTHOR CELL 3
+AUTHOR CELL 5
+AUTHOR CELL 7
+AUTHOR CELL 8
+Algorithm A Average Holding cost:  497.99
+Algorithm A Average Stockout cost:  386.1
+Algorithm A Average Total cost:  884.09
+Algorithm A Average Turnover rate:  12.268704620140678
+Algorithm A Average Stockout rate:  0.10827010628260629
+AUTHOR CELL 10
+AUTHOR CELL 11
+Algorithm B Average Holding cost:  841.428
+Algorithm B Average Holding Stockout cost:  1143.72
+Algorithm B Average Total cost:  1985.148
+Algorithm B Average Turnover rate:  18.471056191690177
+Algorithm B Average Stockout rate:  0.23652916666666665
+AUTHOR CELL 13
+t =  -7.574921935071391
+p =  8.176636956450455e-14
+AUTHOR CELL 14
+t =  -7.7656462889444
+p =  2.0079594211986888e-14
+AUTHOR CELL 15
+t =  -11.914765084142427
+p =  1.0703809200101026e-30
+AUTHOR CELL 16
+t =  -5.477551569211563
+p =  5.458741769919186e-08
+AUTHOR CELL 17
+t =  -8.427020034813369
+p =  1.2259502974682909e-16
+AUTHOR CELL 19
+AUTHOR CELL 20
+AUTHOR CELL 21
+AUTHOR CELL 22
+AUTHOR CELL 23
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:                      y   R-squared (uncentered):                   0.468
+Model:                            OLS   Adj. R-squared (uncentered):              0.467
+Method:                 Least Squares   F-statistic:                              292.8
+Date:                Tue, 20 Oct 2026   Prob (F-statistic):                   2.89e-136
+Time:                        10:11:59   Log-Likelihood:                         -8006.2
+No. Observations:                1000   AIC:                                  1.602e+04
+Df Residuals:                     997   BIC:                                  1.603e+04
+Df Model:                           3                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+e2e         -220.5290     43.355     -5.087      0.000    -305.606    -135.452
+vlt           22.5708      3.146      7.176      0.000      16.398      28.743
+d            237.6181     13.332     17.823      0.000     211.456     263.780
+==============================================================================
+Omnibus:                      232.781   Durbin-Watson:                   1.685
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              493.560
+Skew:                           1.301   Prob(JB):                    6.68e-108
+Kurtosis:                       5.252   Cond. No.                         19.8
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+AUTHOR CELL 24
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:                      y   R-squared (uncentered):                   0.289
+Model:                            OLS   Adj. R-squared (uncentered):              0.287
+Method:                 Least Squares   F-statistic:                              135.1
+Date:                Tue, 20 Oct 2026   Prob (F-statistic):                    1.88e-73
+Time:                        10:11:59   Log-Likelihood:                         -8722.4
+No. Observations:                1000   AIC:                                  1.745e+04
+Df Residuals:                     997   BIC:                                  1.747e+04
+Df Model:                           3                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+e2e         -735.2393     88.725     -8.287      0.000    -909.349    -561.130
+vlt           37.9006      6.437      5.888      0.000      25.268      50.533
+d            360.5972     27.284     13.216      0.000     307.056     414.138
+==============================================================================
+Omnibus:                      456.904   Durbin-Watson:                   1.870
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1964.437
+Skew:                           2.191   Prob(JB):                         0.00
+Kurtosis:                       8.286   Cond. No.                         19.8
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+AUTHOR CELL 25
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:                      y   R-squared (uncentered):                   0.581
+Model:                            OLS   Adj. R-squared (uncentered):              0.580
+Method:                 Least Squares   F-statistic:                              461.3
+Date:                Tue, 20 Oct 2026   Prob (F-statistic):                   6.88e-188
+Time:                        10:11:59   Log-Likelihood:                         -8642.6
+No. Observations:                1000   AIC:                                  1.729e+04
+Df Residuals:                     997   BIC:                                  1.731e+04
+Df Model:                           3                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+e2e         -955.7684     81.925    -11.666      0.000   -1116.533    -795.004
+vlt           60.4714      5.944     10.174      0.000      48.807      72.135
+d            598.2153     25.193     23.745      0.000     548.778     647.653
+==============================================================================
+Omnibus:                      285.930   Durbin-Watson:                   1.775
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              843.170
+Skew:                           1.426   Prob(JB):                    8.09e-184
+Kurtosis:                       6.479   Cond. No.                         19.8
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+AUTHOR CELL 26
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:                      y   R-squared (uncentered):                   0.309
+Model:                            OLS   Adj. R-squared (uncentered):              0.307
+Method:                 Least Squares   F-statistic:                              148.5
+Date:                Tue, 20 Oct 2026   Prob (F-statistic):                    1.52e-79
+Time:                        10:11:59   Log-Likelihood:                         -4403.3
+No. Observations:                1000   AIC:                                      8813.
+Df Residuals:                     997   BIC:                                      8827.
+Df Model:                           3                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+e2e            0.3458      1.181      0.293      0.770      -1.972       2.664
+vlt            0.9171      0.086     10.702      0.000       0.749       1.085
+d              1.8675      0.363      5.141      0.000       1.155       2.580
+==============================================================================
+Omnibus:                      660.367   Durbin-Watson:                   1.455
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            10022.146
+Skew:                           2.818   Prob(JB):                         0.00
+Kurtosis:                      17.449   Cond. No.                         19.8
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+AUTHOR CELL 27
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:                      y   R-squared (uncentered):                   0.380
+Model:                            OLS   Adj. R-squared (uncentered):              0.378
+Method:                 Least Squares   F-statistic:                              203.5
+Date:                Tue, 20 Oct 2026   Prob (F-statistic):                   5.93e-103
+Time:                        10:11:59   Log-Likelihood:                          14.906
+No. Observations:                1000   AIC:                                     -23.81
+Df Residuals:                     997   BIC:                                     -9.089
+Df Model:                           3                                                  
+Covariance Type:            nonrobust                                                  
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+e2e           -0.1019      0.014     -7.156      0.000      -0.130      -0.074
+vlt            0.0129      0.001     12.488      0.000       0.011       0.015
+d              0.0454      0.004     10.370      0.000       0.037       0.054
+==============================================================================
+Omnibus:                      190.965   Durbin-Watson:                   1.690
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              316.172
+Skew:                           1.230   Prob(JB):                     2.21e-69
+Kurtosis:                       4.241   Cond. No.                         19.8
+==============================================================================
+
+Notes:
+[1] R² is computed without centering (uncentered) since the model does not contain a constant.
+[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+AUTHOR CELL 29
+AUTHOR CELL 30
+AUTHOR CELL 32
+AUTHOR CELL 33
+Algorithm A Average Holding cost:  666.394
+Algorithm A Average Stockout cost:  815.868
+Algorithm A Average Total cost:  1482.262
+Algorithm A Average Turnover rate:  15.48785681562142
+Algorithm A Average Stockout rate:  0.23613333333333333
+AUTHOR CELL 35
+AUTHOR CELL 36
+Algorithm B Average Holding cost:  506.46
+Algorithm B Average Holding Stockout cost:  473.13
+Algorithm B Average Total cost:  979.59
+Algorithm B Average Turnover rate:  15.152613035690036
+Algorithm B Average Stockout rate:  0.19752527930902117
+AUTHOR CELL 37
+AUTHOR CELL 38
+t =  -8.476734092687739
+p =  8.23880714505796e-17
+AUTHOR CELL 39
+AUTHOR CELL 40
+t =  -9.391906897402894
+p =  3.874877819304954e-20
+AUTHOR CELL 41
+AUTHOR CELL 42
+t =  -14.150477986800093
+p =  1.452524864442217e-41
+AUTHOR CELL 43
+AUTHOR CELL 44
+t =  -2.837084381274654
+p =  0.0046449146983646335
+AUTHOR CELL 45
+AUTHOR CELL 46
+t =  -7.692592936165375
+p =  3.450407517799294e-14
