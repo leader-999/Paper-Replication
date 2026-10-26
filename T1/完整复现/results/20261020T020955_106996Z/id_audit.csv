@@ -1,0 +1,4 @@
+﻿group_a,group_b,shared_numeric_labels,same_order,identity_linkage_verified
+treatment_pre,treatment_post,500,True,False
+control_pre,control_post,500,True,False
+treatment_post,control_post,500,True,False
